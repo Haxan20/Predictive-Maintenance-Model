@@ -1,5 +1,5 @@
 # Predictive-Maintenance-Model
-Predicting maintenance for a vehicle 🚗 using a pandas pre save datasets📈  
+Predicting maintenance for a vehicle 🚗 using pandas pre save datasets📈  
 # Predictive Maintenance Demo with TensorFlow
 
 This project demonstrates a proof-of-concept for a predictive maintenance system using deep learning. It uses a neural network built with **TensorFlow** to analyze simulated sensor data and predict the likelihood of mechanical failure.
